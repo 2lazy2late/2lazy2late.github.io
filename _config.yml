@@ -1,16 +1,16 @@
 # Site settings
-title: 기계인간 John Grib
-url: "https://johngrib.github.io"
+title: 2lazy2late blog
+url: "https://2lazy2late.github.io"
 baseurl: ""
 description: >
-    기계인간 블로그
+    2lazy2late blog
 
 # My information
-email: johngrib82@gmail.com
-author: 기계인간 John Grib
-profile: 유물론자
-twitter_username: John_Grib
-github_username: johngrib
+email: rainyskin@gmail.com
+author: 2lazy2late
+profile: 2lazy2late-prof
+twitter_username: -
+github_username: 2lazy2late
 comment-support: utterances
 
 # Build settings
@@ -38,10 +38,10 @@ collections:
 
 # Comment Service
 disqus:
-  id: johngrib
-  shortname: johngrib
+  id: 2lazy2late
+  shortname: 2lazy2late
 utterances:
-  repo: johngrib/johngrib.github.io
+  repo: 2lazy2late/2lazy2late.github.io
   issue-term: url
   label: Comment
   branch: master
@@ -50,11 +50,11 @@ google_analytics:
   ua: UA-110224147-1
 
 google_adsense:
-  client: ca-pub-3675948545737694
+  client: ca-pub-8094053398508289
 
-blame: "https://github.com/johngrib/johngrib.github.io/blame/master/_wiki"
-edit: "https://github.com/johngrib/johngrib.github.io/edit/master/_wiki"
-issue: "https://github.com/johngrib/johngrib.github.io/issues/new"
+blame: "https://github.com/2lazy2late/2lazy2late.github.io/blame/master/_wiki"
+edit: "https://github.com/2lazy2late/2lazy2late.github.io/edit/master/_wiki"
+issue: "https://github.com/2lazy2late/2lazy2late.github.io/issues/new"
 
 timezone: "Asia/Seoul"
 
